@@ -9,12 +9,15 @@
 		"lint": "next lint"
 	},
 	"dependencies": {
-		"@babel/runtime": "^7.0.0-beta.55",
+		"@babel/plugin-transform-runtime": "^7.25.9",
+		"@babel/runtime": "^7.26.0",
 		"@react-three/drei": "^9.117.3",
 		"@react-three/fiber": "^8.17.10",
+		"@sentry/nextjs": "^8.41.0",
 		"babel": "^5.8.38",
 		"clsx": "^2.1.1",
 		"framer-motion": "^11.11.17",
+		"lottie-react": "^2.4.0",
 		"mini-svg-data-uri": "^1.4.4",
 		"next": "14.1.4",
 		"next-themes": "^0.4.3",
